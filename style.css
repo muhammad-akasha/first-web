@@ -1,0 +1,46 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: border-box;
+}
+body{background-image:url(./../forms/1388201.jpg);background-size: cover}
+
+.navbar {
+  background-size: cover;
+  height: 60px;
+  display:flex  ;align-items: center;justify-content: space-evenly
+}
+.keepgrow {font-size: 30px;color: whitesmoke;text-transform: capitalize
+}
+.better{font-size: 20px;color: whitesmoke;text-transform: capitalize
+
+}
+.home {margin-left: 80px;font-size: 18px;color: whitesmoke;text-transform: capitalize
+}
+.grow {margin-left: 80px;font-size: 18px;color: whitesmoke;text-transform: capitalize
+}
+.contactus {margin-left: 80px;font-size: 18px;color: whitesmoke;text-transform: capitalize
+}
+.search {margin-left: 80px;font-size: 18px;color: black;text-transform: capitalize
+}
+input{ width: 205px;height: 30px;}
+.image{width: 100%;height: 100%}
+h1{color:darkturquoise;margin-top: 35px;text-transform: capitalize;text-decoration: underline;text-align: center}
+p{color: white;font-size: 30px}
+#image{width: 100%;height: 500px}
+h2{color: teal;text-decoration: underline;text-transform: capitalize}
+.button{width: 50px;height: 25px;}
+.image{width: 100%;height: 800px;}
+.footer{display: flex;justify-content:space-evenly;margin-top: 70px;
+  width: 100%;height:150px;background:black
+}
+.fa-brands, .fab {
+  font-weight: 400;
+  font-size: 80px;
+  color: blue;
+}
+.fa-solid, .fas {
+  font-weight: 900;font-size: 40px;color: antiquewhite
+}
+.copyright{display: flex;justify-content: center;color: blueviolet;font-size: 20px}
+#iconyou{color:rgb(224, 19, 19)}
